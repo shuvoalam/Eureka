@@ -1,2 +1,2 @@
-# sturdy-eureka
+# study-eureka
 CQRS
